@@ -1,0 +1,6 @@
+int[] myArray = new int[] {1,2,3,4,5};
+Which code snippet given below allows you to create a list from this array?
+a. List myList = myArray.asList();
+b. List myList = Arrays.asList(myArray);_______________>Answer
+c. List myList = new ArrayList(myArray);
+d. List myList = Collections.fromArray (myArray);
